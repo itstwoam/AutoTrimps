@@ -1,6 +1,6 @@
 # AutoTrimps - Zek Fork
 
-
+Attempting to fix failure to start gathering after portal
 
 ## Discussion / Discord Channel
 <a href="https://discord.gg/Ztcnfjr"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width=48></a>
